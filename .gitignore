@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# User files
+*.user
+*.suo
+
+# Build
+*.exe
+*.dll
+*.obj
+*.pch
+
+# IntelliSense
+ipch/
+*.ipch
+
+# Logs
+*.log
